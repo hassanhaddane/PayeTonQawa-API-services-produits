@@ -1,4 +1,4 @@
-module github.com/hassanhaddane/PayeTonQawa-API-service-clients
+module github.com/hassanhaddane/PayeTonQawa-API-service-products
 
 go 1.23.1
 
